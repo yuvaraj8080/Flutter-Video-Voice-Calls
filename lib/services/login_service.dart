@@ -1,9 +1,10 @@
 import 'package:flutter_video_call/constants/common.dart';
 import 'package:flutter_video_call/constants/constants.dart';
-import 'package:flutter_video_call/constants/secrets.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:zego_uikit_prebuilt_call/zego_uikit_prebuilt_call.dart';
 import 'package:zego_uikit_signaling_plugin/zego_uikit_signaling_plugin.dart';
+
+import '../constants/secrets.example.dart';
 
 Future<void> login({
   required String userID,

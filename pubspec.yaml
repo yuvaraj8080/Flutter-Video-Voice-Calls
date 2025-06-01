@@ -38,7 +38,7 @@ dependencies:
   shared_preferences: ^2.3.2
   cached_network_image: ^3.4.1
   google_fonts: ^6.2.1
-  device_info_plus: ^10.1.2
+  device_info_plus: ^11.4.0
 
   zego_uikit: ^2.27.8
   zego_uikit_signaling_plugin: ^2.8.3
@@ -53,7 +53,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^4.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
