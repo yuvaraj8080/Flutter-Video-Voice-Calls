@@ -92,7 +92,7 @@ SPEC CHECKSUMS:
   audio_session: 728ae3823d914f809c485d390274861a24b0904e
   audioplayers_darwin: dcad41de4fbd0099cb3749f7ab3b0cb8f70b810c
   connectivity_plus: 0a976dfd033b59192912fa3c6c7b54aab5093802
-  device_info_plus: ce1b7762849d3ec103d0e0517299f2db7ad60720
+  device_info_plus: 1b14eed9bf95428983aed283a8d51cce3d8c4215
   file_picker: e716a70a9fe5fd9e09ebc922d7541464289443af
   flutter_volume_controller: 25d09126b0d695560f11c80b1311d5063fed882f
   FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
